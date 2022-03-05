@@ -3,17 +3,11 @@
 
 
 **oops**: https://www.youtube.com/watch?v=wN0x9eZLix4
-      https://www.interviewbit.com/oops-interview-questions/
+            https://www.interviewbit.com/oops-interview-questions/
       
      
 
 
-
-
-
-
-
-**STL**
 
 
 All about C++ STL components
