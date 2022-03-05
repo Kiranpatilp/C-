@@ -1,8 +1,10 @@
 # C++ 
-[CppNuts] youtube tutorial : https://www.youtube.com/watch?v=JSqznrzWGvc
+[CppNuts] youtube tutorial : 
+            https://www.youtube.com/watch?v=JSqznrzWGvc
 
 
-**oops**: https://www.youtube.com/watch?v=wN0x9eZLix4
+**oops**: 
+            https://www.youtube.com/watch?v=wN0x9eZLix4
             https://www.interviewbit.com/oops-interview-questions/
       
      
